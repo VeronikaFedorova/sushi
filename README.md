@@ -1,4 +1,4 @@
-🍣<h1>**Sushiman**</h1>🍣
+🍣<h1>Sushiman</h1>🍣
 --------------------------
 <h3>A great-looking webpage 🤩 for a bussiness.</h3>
 --------------------------
