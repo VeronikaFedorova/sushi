@@ -178,6 +178,11 @@ a {
   .header__menu-mobile {
     display: flex;
   }
+
+  .header__menu-mobile li {
+    background-color: #020202;
+    padding: 5px;
+  }
 }
 
 @media screen and (max-width: 550px) {
@@ -290,7 +295,7 @@ a {
     flex-direction: column;
   }
 
-  .trending-drink {
+  .trending-drinks {
     flex-direction: column-reverse;
   }
 
